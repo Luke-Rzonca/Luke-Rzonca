@@ -14,13 +14,13 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/luke-rzonca-434bb4290/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2BgoyLmNPTXKAFefj25AyIg%3D%3D
 
 <!--
-
+https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
